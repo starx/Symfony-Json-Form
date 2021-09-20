@@ -1,5 +1,5 @@
 {
-  "name": "limenius/liform",
+  "name": "starx/symfonyjsonform",
   "description": "Library to transform Symfony Forms into Json Schema",
   "type": "library",
   "license": "MIT",
@@ -7,16 +7,20 @@
     {
       "name": "Nacho Martín",
       "email": "nacho@limenius.com"
+    },
+    {
+      "name": "Starx",
+      "email": "connect@starx.io"
     }
   ],
   "autoload": {
     "psr-4": {
-      "Limenius\\Liform\\": "src/Limenius/Liform"
+      "Starx\\Symfony\\JosnForm\\": "src/Starx/SymfonyJsonForm"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Limenius\\Liform\\Tests\\": "tests/Limenius/Liform/Tests"
+      "Starx\\Symfony\\JosnForm\\Tests\\": "tests/Starx/SymfonyJsonForm/Tests"
     }
   },
   "require": {
