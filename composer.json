@@ -1,5 +1,5 @@
 {
-  "name": "starx/symfonyjsonform",
+  "name": "starx/symfony-json-form",
   "description": "Library to transform Symfony Forms into Json Schema",
   "type": "library",
   "license": "MIT",
